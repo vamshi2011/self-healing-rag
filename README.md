@@ -1,6 +1,6 @@
 # 🤖 Self-Healing RAG Agent
 
-A Retrieval-Augmented Generation (RAG) agent built with **LangGraph**, **ChromaDB**, and **Groq (LLaMA 3.3 70B)** that automatically detects low-quality answers and retries with a rewritten query — healing itself before giving up.
+A Retrieval-Augmented Generation (RAG) agent built with **LangGraph**, **ChromaDB**, and **Groq (LLaMA 3.3 70B)** that automatically detects low-quality answers and retries with a rewritten query healing itself before giving up.
 
 ---
 
